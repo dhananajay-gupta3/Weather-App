@@ -1,0 +1,37 @@
+.weatherBg{
+  background: url(https://images.pexels.com/photos/209831/pexels-photo-209831.jpeg?cs=srgb&dl=pexels-pixabay-209831.jpg&fm=jpg);
+  height: 50vh;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+
+
+}
+.heading{
+  color: white;
+  font-weight: 700 ;
+}
+.weatherResultBox{
+  margin: auto;
+  width: 500px ;
+  height: 300px;
+}
+.icon{
+  margin-top: 0.9rem;
+  margin-left: 8rem;
+  width: 50%;
+  height: 50%;
+}
+.weathercity{
+  font-size: 45px;
+  color: black;
+  margin-left: 170px;
+}
+.tem{
+  font-size: 60px;
+  margin-left: 210px;
+  font-weight: 600;
+  color: black;
+
+}
